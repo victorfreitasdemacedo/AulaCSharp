@@ -2,10 +2,11 @@ namespace Musica
 {
     class Musicas
     {
-        public string? Nome{get; set;}
-        public string? Artista{get; set;}
-        public int? Duracao{get; set;}
-        public bool Disponivel{get; set;}
+        public string? Nome{get; set; }
+        public string? Artista{get; set; }
+        public int? Duracao{get; set; }
+        public bool Disponivel{get; set; }
+        public string? DescricaoResumida => $"A musica {Nome} pertence à banda {Artista}";
         
 
 
@@ -21,7 +22,7 @@ namespace Musica
             {
                 Console.WriteLine("Adquira o plano plus+");
             }
-            
+            Console.WriteLine(DescricaoResumida);
         }
     }
 }
