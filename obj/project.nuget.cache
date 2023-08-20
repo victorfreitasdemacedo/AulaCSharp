@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5TKdG7A6J9pDtWGDLUoR3nm6whrNUW23oQZ6zdevw3crKkcslmmZxVo+SuJ6EC/UL/Y2EYlBD7wzam8trFivwg==",
+  "dgSpecHash": "wzQhNvFx0lhP75p04wkruoSO1xYRcYJe0WdT9MZOd14S1Dz9B9XCORaix9HNBo6lqbsiNXzRHvnC/+DHM3gS6A==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\AulaCSharp\\AulaCSharp.csproj",
+  "projectFilePath": "C:\\dev\\AulaCSharp\\AulaCSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

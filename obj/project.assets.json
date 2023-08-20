@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\victormacedo\\.nuget\\packages\\": {}
+    "C:\\Users\\Victor Freitas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\AulaCSharp\\AulaCSharp.csproj",
+      "projectUniqueName": "c:\\dev\\AulaCSharp\\AulaCSharp.csproj",
       "projectName": "AulaCSharp",
-      "projectPath": "C:\\Dev\\AulaCSharp\\AulaCSharp.csproj",
-      "packagesPath": "C:\\Users\\victormacedo\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\AulaCSharp\\obj\\",
+      "projectPath": "c:\\dev\\AulaCSharp\\AulaCSharp.csproj",
+      "packagesPath": "C:\\Users\\Victor Freitas\\.nuget\\packages\\",
+      "outputPath": "c:\\dev\\AulaCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\victormacedo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Victor Freitas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
